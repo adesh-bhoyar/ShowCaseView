@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ShowCaseView</string>
+    <string name="todo">TODO</string>
+    <string name="guide_test_1">Guide Test 1</string>
+    <string name="guide_test_2">Guide Test 2</string>
+    <string name="guide_test_3">Guide Test 3</string>
+    <string name="guide_test_4">Guide Test 4</string>
+    <string name="guide_test_5">Guide Test 5</string>
+    <string name="guide_test_6">Guide Test 6</string>
+    <string name="guide_test_7">Guide Test 7</string>
+    <string name="guide_test_8">Guide Test 8</string>
+    <string name="guide_test_9">Guide Test 9</string>
+    <string name="guide_test">Guide Test</string>
+    <string name="guide_test_last">Guide Test last</string>
+    <string name="guide_description_text_1">Guide Description Text 1.....</string>
+    <string name="guide_description_text_2">Guide Description Text 2.....</string>
+    <string name="guide_description_text_3">Guide Description Text 3.....</string>
+    <string name="guide_description_text_4">Guide Description Text 4.....</string>
+    <string name="guide_description_text_5">Guide Description Text 5.....</string>
+    <string name="guide_description_text_6">Guide Description Text 6.....</string>
+    <string name="guide_description_text_7">Guide Description Text 7.....</string>
+    <string name="guide_description_text_8">Guide Description Text 8.....</string>
+    <string name="guide_description_text_9">Guide Description Text 9.....</string>
+</resources>
